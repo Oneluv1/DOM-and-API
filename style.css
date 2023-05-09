@@ -1,0 +1,22 @@
+:root{
+  --primary-color:#a6bce7;
+  --secondary-color: #212121;
+ 
+}
+body{
+  background-color: #a4bced;
+}
+
+#moon{
+  width: 30px;
+  cursor: pointer;
+  display: flex;
+  float: right;  
+}
+.dark-theme{
+  background-color: #1c1414;
+  color: hwb(0 100% 0%);
+  /*--default-transition:.3s ease-in-out, transform .3s ease-in-out;*/
+ 
+ 
+}
